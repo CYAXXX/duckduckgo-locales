@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr "!Bang Kurteriyên Lêgerînê"
+msgstr "!Bang kurteriyên lêgerînê"
 
 #. Used to specify the rank of a team/player in a specific ranking in short form. This should be interpreted as 'Ranked number <rankNumber> in the <rankingName> ranking. Here you only need to translate the # symbol for ranked number. If your language doesn't provide a single-letter convention, please leave #.
 msgctxt "Sports module"
@@ -29,12 +29,12 @@ msgstr ""
 #. Heading for the table column indicating what percent of the population is fully vaccinated
 msgctxt "Covid 19 module"
 msgid "% Fully Vaccinated"
-msgstr "% Temamî Deqandî"
+msgstr "% Bi tevahî derzîkirî"
 
 #. Heading for the table column indicating what percent of the population is partially vaccinated
 msgctxt "Covid 19 module"
 msgid "% Vaccinated"
-msgstr "% Deqandî"
+msgstr "% Derzîkirî"
 
 #. In the context of an NHL (hockey) game, indicates in which intermission (break between game periods) an in-progress game is currently in. The number is in ordinal form (e.g. 1st), localized separately. The combination results in e.g. 1st Intermission, 4th Intermission
 msgctxt "Sports module"
@@ -48,7 +48,7 @@ msgstr "%s Derva"
 
 #. Displaying the number of reviews in plural for a website
 msgid "%s Reviews"
-msgstr ""
+msgstr "Nirxandin"
 
 #. Used to indicate the season year, e.g. '2020 Season'
 msgctxt "Sports module"
@@ -58,12 +58,12 @@ msgstr "%s Demsal"
 #. Plural form for user feedback, when displaying the number of adults selected (e.g. 3 adults).
 msgctxt "Single Place Hotel Offers Module"
 msgid "%s adults"
-msgstr ""
+msgstr "Mezin"
 
 #. Text describing available AI models when onboarding. Example: 'GPT-3.5 and Claude AI models'
 msgctxt "Onboarding welcome screen feature"
 msgid "%s and %s AI models"
-msgstr ""
+msgstr "Modêlên AI %s û %s"
 
 #. Message that appears above the search results encouraging them to filter results by domain. The placeholder string would include a the name of a website. E.g. 'Reddit appears in some of the top results for this search.'
 msgctxt "Site filter message"
@@ -77,16 +77,16 @@ msgstr "%s hewldan"
 
 #. A summary description of how many tracking attempts where blocked, when there was more than 1. Eg: '1,028 attempts blocked by DuckDuckGo in the last 24 hours'
 msgid "%s attempts blocked by DuckDuckGo in the last 24 hours"
-msgstr ""
+msgstr "%s hewldan ji aliyê DuckDuckGo ve hatin astengkirin di 24 demjimêrên borî de"
 
 #. A label that indicates a specific search result has been blocked by the safe search filter. The placeholder value is the name of the search result that was blocked.
 msgid "%s blocked by safe search."
-msgstr "%s ji aliyê lêgerîna parastî ve hate astengkirin."
+msgstr "%s ji aliyê lêgerîna parastî ve hat astengkirin."
 
 #. Label that's displayed next to a calories count below a web search result.
 msgctxt "Rich Facts label"
 msgid "%s calories"
-msgstr ""
+msgstr "%s kalorî"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -96,12 +96,12 @@ msgstr "%s roj berê"
 #. An indication that inputted text was detected to be in this language. E.g.: Italian detected.
 msgctxt "translations_module"
 msgid "%s detected"
-msgstr "%s hate dîtin"
+msgstr "%s hat dîtin"
 
 #. Label that's displayed next to a follower count below a web search result.
 msgctxt "Rich Facts label"
 msgid "%s followers"
-msgstr ""
+msgstr "%s şopîner"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -109,7 +109,7 @@ msgstr "%s ji bo %s"
 
 #. States the title of an article and the website on which the article appears. The placeholder values are the title of the article and the name of the website. Example: 'How to Wash a Car from wikihow.com'
 msgid "%s from %s"
-msgstr ""
+msgstr "%s ji %s"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -119,27 +119,27 @@ msgstr "%s demjimêr berê"
 #. The total amount DuckDuckGo has donated to privacy-related causes. The placeholder value is a number. For example '$1,000,000 in privacy donations!'
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr "%s bexşandina di taybetî de!"
+msgstr "%s bexşandina di taybetiyê de!"
 
 #. Link used to find out more about the specified country in the Olympics in the given year. Placeholders are for Country and Year. i.e. Germany in the Olympics 1996
 msgid "%s in the Olympics %s"
-msgstr ""
+msgstr "%s di Olîmpiyatan de"
 
 msgctxt ""
 "A string used to find out more about the specified country in the Olympics "
 "in the given year."
 msgid "%s in the Olympics %s"
-msgstr ""
+msgstr "%s di Olîmpiyatan de %s"
 
 #. Text for a promotional card that encourages users to try the recently added AI model. The placeholder is the name of AI model like 'GPT-5 mini is here!'
 msgctxt "Promotional text for a single new AI model"
 msgid "%s is here!"
-msgstr ""
+msgstr "%s li vir e!"
 
 #. Displayed when an AI (Artificial Intelligence) chat model is temporarily unavailable. Example: 'GPT 4o is only available with a DuckDuckGo subscription.'
 msgctxt "Error message for model unavailability"
 msgid "%s is only available with a DuckDuckGo subscription."
-msgstr ""
+msgstr "%s tenê bi endamiya DuckDuckGo re pêkan e"
 
 #. Text for the disclaimer message that appears when a model is not available to the user without a subscription. This is part of a sentence containing also the model name. Example: GPT-4.1 is only available with a DuckDuckGo subscription. Activate your subscription in this browser again to continue the chat, or switch to a free model.
 msgctxt "Text for the model not available without a subscription disclaimer"
@@ -147,14 +147,18 @@ msgid ""
 "%s is only available with a DuckDuckGo subscription. Activate your "
 "subscription in this browser again to continue the chat, or switch to a free "
 "model."
-msgstr ""
+msgstr""
+"%s têne bi endamiya DuckDuckGo re pêkan e. Ji bo domandina axaftinê "
+"dîsa di vê gerokê de endamiya xwe çalak bike, an jî biguherîne modeleke belaş."
 
 #. Displayed when an AI chat model is temporarily unavailable. Example: 'GPT 3.5 Turbo is temporarily unavailable. Please switch to a different model or try again later.'
 msgctxt "Error message for model unavailability"
-msgid ""
+msgid "Peyama şaşetiyê ji bo nebûna modelê"
 "%s is temporarily unavailable. Please switch to a different model or try "
 "again later."
 msgstr ""
+"%s bi awayekî demkî ne pêkan e. Jkx derbasî modeleke cûda bibe yan jî paşê "
+"dîsa hewl bide."
 
 #. Reddit's "fake internet points". https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma
 msgctxt "Discussions IA"
@@ -168,17 +172,17 @@ msgstr ""
 #. Label that's displayed next to a like count below a web search result.
 msgctxt "Rich Facts label"
 msgid "%s likes"
-msgstr ""
+msgstr "%s hezkirin"
 
 #. Disclaimer text shown bellow chat input on mobile, avoid long text if possible. Example: 'GPT-3 may display inaccurate or offensive information.'
 msgctxt "Disclaimer bellow chat input - mobile"
 msgid "%s may display inaccurate or offensive information."
-msgstr ""
+msgstr "%s dibe ku zanyariyên nerast an jî êrîşkar bide nîşandan."
 
 #. Label showing how many members a discussion has. To be displayed on a card about that discussion.
 msgctxt "Discussions IA"
 msgid "%s members"
-msgstr ""
+msgstr "%s endam"
 
 #. Distance measured in miles. Placeholder is a number. For example: '100 mi'
 msgid "%s mi"
@@ -192,47 +196,47 @@ msgstr "%s li ser %s"
 #. Empty state message to indicate that there are no rankings for a particular ranking yet. For example, for college football, the CFP ranking is typically not released until halfway through the season.
 msgctxt "Sports module"
 msgid "%s rankings are not yet available"
-msgstr ""
+msgstr "Rêzkirinên %s hîn ne pêkan in"
 
 #. Label for a single result being hidden
 msgctxt "Organic result context menu"
 msgid "%s results hidden"
-msgstr ""
+msgstr "%s encam veşartî ne"
 
 #. The main headline indicating that more than 1 attempt has been blocked. Eg: '2 tracking attempts blocked'
 msgid "%s tracking attempts blocked"
-msgstr "%s hewldanên şopandinê hate astengkirin"
+msgstr "%s hewldanên şopandinê hat astengkirin"
 
 #. Label to add to describe the number of views of a video (e.g., 1 view). This is for the singular case (just 1 view). The placeholder indicates the number of view (typically 1).
 msgid "%s view"
-msgstr ""
+msgstr "%s dîtin"
 
 #. Label to add to describe the number of views of a video (e.g., 100 views). This is for the plural case (> 1 view). The placeholder indicates the number of view (e.g., 100).
 msgid "%s views"
-msgstr ""
+msgstr "%s dîtin"
 
 #. Label that's displayed next to a views count below a web search result.
 msgctxt "Rich Facts label"
 msgid "%s views"
-msgstr ""
+msgstr "%s dîtin"
 
 #. Message that appears when a site is blocked successfully
 msgctxt "Organic result context menu"
 msgid "%s will be hidden from your search results."
-msgstr ""
+msgstr "%s wê ji encamên lêgerîna te werin veşartin"
 
 #. Instructions on which buttons and options the user has to click in order to add the DuckDuckGo extension to their browser.
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
 msgstr ""
-"%sMafê bide %sKontrolê%sTevlîkirinê %sBitikîne%s, paşê %sBaş e%s bitikîne"
+"%sTevlî bike%s %sBitikîne %sMafê bide%s Kontrol bike, paşê %sBaş e%s bitikîne"
 
 #. Instructions on what buttons the user has to click in order to add the DuckDuckGo extension to their browser.
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
 msgstr ""
-"%sMafê bide%sBitikîne %sBitikîne %sMafê bide%s %sKontrolê%sTevlîkirinê, paşê "
-"%sBaş e%s bitikîne"
+"%sMafê bide%s %sBitikîne %sTevlî bike%s bitikîne %sMafê bide%s kontrol bike, "
+"paşê %sBaş e%s bitikîne"
 
 #. Instructions on which buttons the user has to click in order to add the DuckDuckGo extension to their browser.
 msgctxt "install-duckduckgo"
@@ -240,25 +244,26 @@ msgid ""
 "%sClick %sContinue To Installation%sClick %sAdd%sCheck %sAllow%s, then click "
 "%sOkay%s"
 msgstr ""
-"%sBidomîne %sBitikîne da ku Saz bikî %sMafê bide%s %sKontrolê%sTevlîkirinê "
-"%sBitikîne, paşê %sBaş e%s bitikîne"
+"%sBo sazkirinê bidomînî Bitikîne%s %sTevlî bike%s Bitikîne %sMafê bide%s "
+"Kontrol bike, paşê %sBaş e%s bitikîne"
 
 #. A button that reloads search results when an error occurs.
 msgctxt "noresults"
 msgid ""
 "%sClick here%s to try again, if you think there should be results for this "
 "search."
-msgstr "%sLi vir bitikîne%s bo dîsa binêrî, ku tu dibêjî encam hene ji bo vê"
+msgstr "%sLi vir bitikîne%s bo dîsa hewl bidî, ku tu dibêjî encam hene ji bo vê "
+"lêgerînê."
 
 #. Header for a page with information about sharing DuckDuckGo.
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr "%sAlîkariya Belavkirina DuckDuckGo bike!%s"
+msgstr "%sAlîkariya belavkirina DuckDuckGo bike!%s"
 
 #. Link to more information
 msgctxt "frontpage"
 msgid "%sLearn More%s."
-msgstr "%sBêtir Fêr bibe%s."
+msgstr "%sBêtir fêr bibe%s."
 
 #. Link to a page with more information about how anonymous location works.
 msgctxt "precise_user_location"
@@ -268,32 +273,32 @@ msgstr "%sFêr bibe ka çawa em cihê te taybet diparêzin%s."
 #. Text explaining that you can learn more about how recent chats work. Placeholders are for page markup to add links to 'Learn more'. Example: '<a>Learn more</a> about how chats are stored privately on your device.'
 msgctxt "Information about adjusting recent chat storage settings"
 msgid "%sLearn more%s about how chats are stored privately on your device."
-msgstr ""
+msgstr "%sBêtir fêr bibe ka çawa axaftin li ser amûrê te bi taybetî tê tomarkirin."
 
 #. Tells the user to press and hold the DuckDuckGo app icon. Part of a list of instructions on how to enable location service.
 msgctxt "precise_user_location"
 msgid "%sLong-press%s the DuckDuckGo app icon on the home screen"
-msgstr ""
+msgstr "Sembola DuckDuckGo %sDirêj-bitikîne%s li ser dîmendera sereke"
 
 #. A message displayed when there is an error loading content or no results on requery
 msgctxt "Error or no results message"
 msgid "%sOops!%s%sSomething went wrong. Please %srefresh%s and try again."
-msgstr ""
+msgstr "%sAx!%s%tiştek şaş çê bû. Jkx %snû bike%s û dîsa hewl bide"
 
 #. Tagline in a popover encouraging the user to download the DuckDuckGo browser
 msgctxt "Browser Promo Popover"
 msgid "%sProtection. Privacy.%s Peace of mind."
-msgstr ""
+msgstr "%sParastin. Taybetî.%s Aramiya hişê.""
 
 #. Prompts the user to reload the webpage.
 msgctxt "precise_user_location"
 msgid "%sReload%s DuckDuckGo, and try again"
-msgstr ""
+msgstr "DuckDuckGo %sJi nû ve bar bike%s, û dîsa hewl bide."
 
 #. Prompts the user to reload the webpage.
 msgctxt "precise_user_location"
 msgid "%sReload%s DuckDuckGo, and try again."
-msgstr "DuckDuckGo %sBar bike%s, û ji nû ve binêre."
+msgstr "DuckDuckGo %sJi nû ve bar bike%s, û dîsa hewl bide."
 
 #. A button that clears any filters that have been applied to search results.
 msgctxt "noresults"
@@ -306,28 +311,28 @@ msgstr "%sRastê bitikîne%s di darika lêgerînê de"
 
 msgctxt "settings"
 msgid "'Always private' Reminder"
-msgstr ""
+msgstr "Bîrhênera 'Herdem taybet'"
 
 msgctxt "settings"
 msgid "'Always protected' Reminder"
-msgstr ""
+msgstr ""Bîrhênera 'Her dem parastî ye'"
 
 msgctxt "settings"
 msgid "'Protected' Reminder"
-msgstr ""
+msgstr ""Bîrhênera 'Parastî ye'"
 
 #. A suffix on a filter option indicating it is the one that is in effect if no other filter is chosen
 msgid "(Default)"
-msgstr ""
+msgstr "(Berdest)"
 
 #. Displaying 1 review for a website
 msgid "1 Review"
-msgstr ""
+msgstr "1 nirxandin"
 
 #. Singular form when displaying the number of adults staying at a hotel.
 msgctxt "Single Place Hotel Offers Module"
 msgid "1 adult"
-msgstr ""
+msgstr "1 mezin"
 
 #. Number of tracking attempts blocked, when there's only 1
 msgctxt "tracker_stats"
@@ -337,6 +342,8 @@ msgstr "1 hewldan"
 #. A summary description of how many tracking attempts where blocked, when only one exists.
 msgid "1 attempt blocked by DuckDuckGo in the last 24 hours"
 msgstr ""
+"1 hewldan ji aliyê DuckDuckGo ve hate astengkirin di 24 "
+"demjimêrên borî de"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -351,11 +358,11 @@ msgstr "1 demjimêr berê"
 #. Label for a single result being hidden
 msgctxt "Organic result context menu"
 msgid "1 result hidden"
-msgstr ""
+msgstr "1 encam veşartî ye"
 
 #. The main headline indicating that 1 tracker was blocked
 msgid "1 tracking attempt blocked"
-msgstr "1 hewldanê şopandinê hate astengkirin"
+msgstr "1 hewldanê şopandinê hat astengkirin"
 
 #. Tells users where they can find the DuckDuckGo browser extension file downloaded to their computer.
 msgctxt "install-extension"
@@ -415,12 +422,12 @@ msgstr "1S"
 #. Numbers that indicate the position in a series
 msgctxt "Sports module"
 msgid "1st"
-msgstr "1mîn"
+msgstr "1emîn"
 
 #. Text indicating the winner of a World Cup group when that team is not yet known
 msgctxt "Sports module"
 msgid "1st in Group %s"
-msgstr "1emin di Koma %s de"
+msgstr "1emin di koma %s de"
 
 #. Instructions on how to install the DuckDuckGo browser extension.
 msgctxt "install-extension"
@@ -430,12 +437,12 @@ msgstr "2. %sduckduckgo.safariextz%s ducar-bitikîne"
 #. Title of a module related to the United States presidential election.
 msgctxt "Elections IA"
 msgid "2024 US Presidential Election"
-msgstr ""
+msgstr "Hilbijartina serokatiyê Emerîka ya 2024"
 
 #. Title of a module related to the United States presidential election.
 msgctxt "Elections IA"
 msgid "2024 United States Presidential Election"
-msgstr ""
+msgstr "Hilbijartina Serokatiyê ya dewletên yekbûyî yên Emerîkayî ya 2024"
 
 #. Numbers that indicate the position in a series
 msgctxt "Sports module"
@@ -460,12 +467,12 @@ msgstr "4yemîn"
 #. The highest price over the previous 52 weeks
 msgctxt "Stocks module"
 msgid "52wk High"
-msgstr "52hefte Bilind"
+msgstr "52hefte bilind"
 
 #. The lowest price over the previous 52 weeks
 msgctxt "Stocks module"
 msgid "52wk Low"
-msgstr "52hefte Nizm"
+msgstr "52hefte nizm"
 
 #. Button label for selecting chart of prices over the last 5 days
 msgctxt "Stocks module"
@@ -480,27 +487,27 @@ msgstr "5S"
 #. Numbers that indicate the position in a series
 msgctxt "Sports module"
 msgid "5th"
-msgstr "5min"
+msgstr "5emin"
 
 #. Numbers that indicate the position in a series
 msgctxt "Sports module"
 msgid "6th"
-msgstr "6min"
+msgstr "6emin"
 
 #. Numbers that indicate the position in a series
 msgctxt "Sports module"
 msgid "7th"
-msgstr "7min"
+msgstr "7emin"
 
 #. Numbers that indicate the position in a series
 msgctxt "Sports module"
 msgid "8th"
-msgstr "8min"
+msgstr "8emin"
 
 #. Numbers that indicate the position in a series
 msgctxt "Sports module"
 msgid "9th"
-msgstr "9min"
+msgstr "9emin"
 
 #. Text for the query that is displayed in the Search Assist introduction. For example: Get an answer for 'How to wash a car'.
 msgid "<strong>Generate answer for</strong> %s"
@@ -516,12 +523,14 @@ msgctxt "Body text for new version available modal"
 msgid ""
 "A new version of AI Chat is available! Please refresh this page to continue."
 msgstr ""
+"Guhertoyeke nû ya AI Chat heye! Jkx vê rûpelê nû bike da ku bidomînî."
 
 #. Text informing the user that a new version of Duck.ai is available and they need to refresh the page.
 msgctxt "Body text for new version available modal"
 msgid ""
 "A new version of Duck.ai is available! Please refresh this page to continue."
 msgstr ""
+"Guhertoyeke nû ya Duck.ai heye! Jkx vê rûpelê nû bike da ku bidomînî."
 
 #. https://duckduckgo.com/params in the end under " Source:"
 msgid "A string to identify the source."
@@ -539,7 +548,7 @@ msgstr ""
 #. Title of the modal that contains settings for AI Chat.
 msgctxt "Modal header for AI Chat settings"
 msgid "AI Chat Settings"
-msgstr ""
+msgstr "Sazkariyên AI Chat"
 
 msgctxt "settings"
 msgid ""
@@ -548,43 +557,48 @@ msgid ""
 "still access AI Chat when this setting is off by visiting %sduckduckgo.com/"
 "aichat%s."
 msgstr ""
+"AI Chat dihêle ku tu bi modelên axaftinê ya AI yên partiya sêyemîn re anonîm biaxivî. "
+"Neçalakkirina vê wê taybetmendiya axaftinê ya AI li ser lêgerîna DuckDuckGo veşêre. "
+"Dema ku ev sazkarî neçalak be, tu dikarî bi riya serdana %sduckduckgo.com/"
+"bigihêjî aichat@s."
+
 
 #. A label for a setting that appears on a menu, used to control global AI features settings.
 msgctxt "Label for AI Features setting"
 msgid "AI Features"
-msgstr ""
+msgstr "Taybetmendiyên AI"
 
 msgctxt "settings"
 msgid "AI Features"
-msgstr ""
+msgstr "Taybetmendiyên AI"
 
 #. Title for filter to hide or include AI-generated images in image results
 msgid "AI images"
-msgstr ""
+msgstr "Wêneyên AI"
 
 #. Title for filter to hide or include AI-generated images in image results
 msgid "AI images:"
-msgstr ""
+msgstr "Wêneyên AI:"
 
 #. Disclaimer text shown bellow chat input.
 msgctxt "Disclaimer bellow chat input"
 msgid "AI may display inaccurate or offensive information."
-msgstr ""
+msgstr "AI dibe ku zanyariyên nerast an jî êrîşkar bide nîşandan"
 
 #. Label for the input field where user can specify how the AI assistant should refer to itself. Example: 'AI nickname (is): Fred'
 msgctxt "Label for assistant name input"
 msgid "AI nickname"
-msgstr ""
+msgstr "Nasnavê AI"
 
 #. Label indicating the assistant's role. Example: 'AI role (is a): travel guide'
 msgctxt "Label for assistant role selection"
 msgid "AI role"
-msgstr ""
+msgstr "Rolê AI"
 
 #. The title for the learn more modal about AI-Assisted Answers.
 msgctxt "duckassist"
 msgid "AI-Assisted Answers"
-msgstr ""
+msgstr "Bersivên bi alîkariya AI"
 
 #. Second paragraph of a section inviting users to learn more about the duckassist instant answer (based on generative AI)
 msgid ""
@@ -593,21 +607,26 @@ msgid ""
 "questions, which is our private AI-powered chat service that supports chat "
 "models from OpenAI, and Anthropic, and more."
 msgstr ""
+"Bersivên bi alîkariya AI niha rasterast pirsên şopandinê piştgirî nakin. "
+"Lêbelê, em ji bo pirsên şopandinê jî pêşkêş dikin û pir caran bi "
+"%sDuck.ai%s ve girêdayî dibin, ku ev rajeya me ya taybet a axaftinê bi "
+"hêzdariya AI ye ku piştgiriyê dide axaftinê. "
+"modelên ji OpenAI, û Anthropic, û hwd."
 
 #. A message that confirms the user has turned off AI features and will no longer see AI-assisted answers.
 msgctxt "duckassist"
 msgid "AI-assisted answers have been turned off!"
-msgstr ""
+msgstr "Bersivên bi alîkariya AI hatin vemirandin!"
 
 #. Negative feedback suggestion for when user dislikes AI-generated content
 msgctxt "Feedback prompt"
 msgid "AI-generated"
-msgstr ""
+msgstr "Ji aliya AI ve hatiye çêkirin"
 
 #. A feedback suggestion
 msgctxt "Feedback prompt"
 msgid "AI-generated recipe"
-msgstr ""
+msgstr "Danasîn ji aliya AI ve hatiye çêkirin""
 
 #. Shortened title for filter to hide or include AI-generated images in image results
 msgid "AI:"
@@ -630,7 +649,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "ATB Dismiss"
-msgstr "ATB Çalak neke"
+msgstr "ATB çalak neke"
 
 msgctxt "settings"
 msgid "ATB related (not displayed on settings page)"
@@ -649,7 +668,7 @@ msgstr "Derbar"
 #. A link to a page that provides information about the DuckDuckGo Browser (https://duckduckgo.com/app/)
 msgctxt "SERP footer content"
 msgid "About Browser"
-msgstr ""
+msgstr "Derbarê gerokê"
 
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
@@ -658,36 +677,36 @@ msgstr "Derbarê DuckDuckGo"
 
 #. Link label for DuckDuckGo 'App' page (https://duckduckgo.com/app)
 msgid "About Our Browser"
-msgstr ""
+msgstr "Derbarê gerokê me"
 
 #. Title of the modal that provides information about Recent Chats.
 msgctxt "Modal header for recent chats information"
 msgid "About Recent Chats"
-msgstr ""
+msgstr "Derbarê axaftinên dawî"
 
 #. Link to a page with more information about the company.
 msgid "About Us"
-msgstr "Derbarê Me"
+msgstr "Derbarê me"
 
 #. This is an option for a user setting. It refers to showing the URL for a result ABOVE the TITLE of the result -- Example image: https://i.imgur.com/bTm8PCc.png
 msgctxt "settingsvalue"
 msgid "Above Title"
-msgstr "Li ser Sernavê"
+msgstr "Li ser sernavê"
 
 #. A feedback suggestion
 msgctxt "Feedback prompt"
 msgid "Accurate"
-msgstr ""
+msgstr "Rast e"
 
 #. Label indicating the assistant's role. Example: 'Act like a travel guide'
 msgctxt "Label for assistant role selection"
 msgid "Act like"
-msgstr ""
+msgstr "Tev bigere wekî"
 
 #. Text for the button that opens the subscription modal.
 msgctxt "Button on the model not available disclaimer"
 msgid "Activate Subscription"
-msgstr ""
+msgstr "Endamiyê çalak bike"
 
 #. Will be used in the sentence, 'Activate your DuckDuckGo subscription in this browser again to continue the chat, or switch to a free model.' but needs to be a separate token so we can make DuckDuckGo subscription a link
 msgctxt ""
@@ -697,26 +716,28 @@ msgid ""
 "Activate your %s in this browser again to continue the chat, or switch to a "
 "free model."
 msgstr ""
+"Ji bo domandina vê axaftinê %s ya xwe dîsa di vê gerokê de çalak bike, 
+an jî biguherîne modeleke belaş.
 
 #. Label indicating that the user has an active DuckDuckGo subscription.
 msgctxt "Text for the active subscription label on the settings modal"
 msgid "Active"
-msgstr ""
+msgstr "Çalak e"
 
 #. Label for a menu item for the active privacy protection feature.
 msgctxt "Menu item label"
 msgid "Active Privacy Protection"
-msgstr ""
+msgstr "Parastina taybetiyê ya çalak"
 
 #. Title that informs users that their chats have an active privacy protection feature.
 msgctxt "Modal header for active privacy protection"
 msgid "Active Privacy Protection"
-msgstr ""
+msgstr "Parastina taybetiyê çalak e"
 
 #. Title of the modal about the active privacy protection.
 msgctxt "Modal title for privacy"
 msgid "Active Privacy Protection"
-msgstr ""
+msgstr "Parastina taybetiyê ya çalak"
 
 #. A label that appears on an advertisement. 'Ad' is an abbreviation for 'Advertisement'
 msgid "Ad"
@@ -777,12 +798,12 @@ msgstr "%s tevlî kodika xwe ya lêgerînê bike!"
 #. Prompt to add locations on a map in order to get directions.
 msgctxt "directions"
 msgid "Add a starting point and destination to find a route."
-msgstr "Xala destpêkê û rêgerhekê tevlî bike bo ku rêyekê bibînî."
+msgstr "Xala destpêkê û rêgerhekê tevlî bike bo ku riyekê bibînî."
 
 #. Prompt to install the DuckDuckGo browser extension.
 msgctxt "homepage ATB modal"
 msgid "Add our extension to help protect personal data"
-msgstr "Pêvekê me tevlî bike da ku bibe alîkar di parastinê daneyên taybet de"
+msgstr "Pêvekê me tevlî bike da ku bibe alîkar di parastina daneyên taybet de"
 
 #. Link to add the DuckDuckGo extension to the user's web browser. The placeholder is the name of the browser the user is currently using. For example: 'Add to Chrome'
 msgid "Add to %s"
@@ -790,7 +811,7 @@ msgstr "Tevlî %s bike"
 
 #. Button that creates a shortcut to the current page on the home screen of the user's phone.
 msgid "Add to Home Screen"
-msgstr "Tevlî Dîmendera Sereke bike"
+msgstr "Tevlî dîmendera sereke bike"
 
 #. In the top menu under Goodies
 msgid "Add-ons"
@@ -799,7 +820,7 @@ msgstr "Pêvek"
 #. Label that's displayed next to an address below a web search result.
 msgctxt "Rich Facts label"
 msgid "Address"
-msgstr ""
+msgstr "Navnîşan"
 
 #. Refers to a street address.
 msgctxt "maps_places"
@@ -822,26 +843,26 @@ msgstr "Reklam"
 #. A call-to-action to subscribe to unlock access to advanced AI models. Please keep translations to 50 characters or less.
 msgctxt "Text promotion"
 msgid "Advanced AI in DuckDuckGo subscription!"
-msgstr ""
+msgstr "AI ya pêşketî di endamiya DuckDuckGo de!"
 
 #. Text for a promotional card that encourages DuckDuckGo Subscription users to try the advanced AI models that the subscription unlocks.
 msgctxt "Promotional text for advanced AI models for subscribed Duck.ai users"
 msgid "Advanced AI models unlocked!"
-msgstr ""
+msgstr "Modelên AI ya pêşketî hatin vekirin!"
 
 #. Title for the welcome modal displayed after the user subscribes to DuckDuckGo.
 msgctxt "Title for the subscription welcome modal"
 msgid "Advanced AI models unlocked!"
-msgstr ""
+msgstr "Modelên AI ya pêşketî hatin vekirin!"
 
 #. Text displayed on the models list as a title for the advanced AI (Artificial Intelligence) models section.
 msgctxt "Label for the advanced AI models"
 msgid "Advanced Models"
-msgstr ""
+msgstr "Modelên pêşketî"
 
 #. Link to a page with resources for advertisers who want to place ads on the search results page.
 msgid "Advertise on Search"
-msgstr "Reklam li ser Lêgerînê"
+msgstr "Reklam li ser lêgerînê"
 
 msgctxt "feedback form"
 msgid "Advertisements"
@@ -857,7 +878,7 @@ msgid "Advertisements:"
 msgstr "Reklam:"
 
 msgid "Afghanistan"
-msgstr ""
+msgstr "Efxanistan"
 
 #. The name of the Afrikaans language
 msgctxt "language_name"
@@ -866,7 +887,7 @@ msgstr "Efrîkaansî"
 
 #. Instructions on how to install the DuckDuckGo browser extension after it downloads.
 msgid "After it downloads and opens, click %sInstall%s"
-msgstr "Piştî daxistin û vekirin wê, %sSaz bike%s bitikîne"
+msgstr "Piştî daxistin û vekirinê, %sSaz bike%s bitikîne"
 
 #. Instructions on how to install the DuckDuckGo browser extension after it downloads.
 msgid ""
@@ -877,15 +898,15 @@ msgstr ""
 #. Label that's displayed next to an age below a web search result.
 msgctxt "Rich Facts label"
 msgid "Age"
-msgstr ""
+msgstr "Temen"
 
 #. Text displayed on the button on the onboarding modal where the user agrees to the Terms of Use and Privacy Policy.
 msgctxt "Modal onboarding terms screen button text"
 msgid "Agree and Continue"
-msgstr ""
+msgstr "Biperjîne û bitikîne"
 
 msgid "Albania"
-msgstr ""
+msgstr "Elbaniya"
 
 #. The name of the Albanian language
 msgctxt "language_name"
@@ -898,7 +919,7 @@ msgid "Album"
 msgstr "Elbum"
 
 msgid "Algeria"
-msgstr ""
+msgstr "Cezayîr"
 
 msgid "All"
 msgstr "Hemû"
@@ -921,12 +942,12 @@ msgstr "Hemû Creative Commons"
 #. Button label for selecting to show the information from all Groups, in e.g. the soccer World Cup
 msgctxt "Sports module"
 msgid "All Groups"
-msgstr "Hemû Kom"
+msgstr "Hemû kom"
 
 #. 'license' as in 'permission to use, share, or modify a work'
 msgctxt "image-licence"
 msgid "All Licenses"
-msgstr "Hemû Lîsans"
+msgstr "Hemû lîsans"
 
 #. Links back to a list of all search results from a page with information on a single result.
 msgid "All Places"
@@ -934,24 +955,24 @@ msgstr "Hemû Cih"
 
 #. A filter that shows search results from all countries.
 msgid "All Regions"
-msgstr "Hemû Herêm"
+msgstr "Hemû herêm"
 
 #. A label that appears above search results.
 msgid "All Results"
-msgstr "Hemû Encam"
+msgstr "Hemû encam"
 
 #. Text for a link to the settings page with all search settings available.
 msgctxt "link to settings page"
 msgid "All Search Settings"
-msgstr ""
+msgstr "Hemû sazkariyên lêgerînê""
 
 #. Link that shows all settings.
 msgid "All Settings"
-msgstr "Hemû Sazkarî"
+msgstr "Hemû sazkarî"
 
 msgctxt "settings pages"
 msgid "All Settings"
-msgstr "Hemû Sazkarî"
+msgstr "Hemû sazkarî"
 
 #. This is shown in an image filter. This option only shows images in colors, excluding black and white images. https://duckduckgo.com/?q=images+of+cats&iar=images&iax=images&ia=images
 msgctxt "image-color"
@@ -966,7 +987,7 @@ msgstr "Hemû pergal"
 #. Text displayed in the subheader of the modal that allows the user to pick an AI chat model.
 msgctxt "Modal subheader text"
 msgid "All models are anonymously provided by DuckDuckGo"
-msgstr ""
+msgstr "Hemû model bi awayekî nenas ji aliyê DuckDuckGo ve têne peydakirin""
 
 #. A filter that shows search results from all countries.
 msgctxt "settingsvalue"
@@ -981,33 +1002,33 @@ msgstr "Hemû mezinahî"
 #. Shown in an image type selector. Other options are: photograph, clipart, animated gif, etc.  https://duckduckgo.com/?q=images+of+cats&iar=images&iax=images&ia=images
 msgctxt "image-type"
 msgid "All types"
-msgstr "Hemû cure"
+msgstr "Hemû cûre"
 
 #. Tells users which icon to press in their browser. Part of a list of instructions on how to enable location service.
 msgctxt "precise_user_location"
 msgid "Allow DuckDuckGo to use your location."
-msgstr ""
+msgstr "Mafê bide DuckDuckGo ku cihê te bi kar bîne."
 
 #. Label of a button that opens instructions on how to turn off the user's ad blocker
 msgid "Allow Privacy-Respecting Ads"
-msgstr ""
+msgstr "Mafê bide reklamên ku rêzgirtina taybetiyê dikin"
 
 #. Title in a dialog informing the user how to disable their ad blocker for DuckDuckGo
 msgid "Allow privacy-respecting ads on DuckDuckGo Private Search"
-msgstr ""
+msgstr "Mafê bide reklamên ku rêzgirtina taybetiyê dikin li ser lêgerînên taybet ên DuckDuckGo"
 
 msgctxt "settings"
 msgid ""
 "Allows Cloud Save key to be stored locally on device (required to use Cloud "
 "Save)"
 msgstr ""
-"Mafê bide Kilîtê Tomarkirina Ewrî da ku navxweyî werê tomarkirin li ser "
-"amûrê (pêdivî bikaranîn Tomarkirina Ewrî dike)"
+"Mafê bide kilîtê tomarkirina ewrî da ku navxweyî were tomarkirin li ser "
+"amûrê (ji bo bikaranînê tomarkirina ewrî pêdivî ye)"
 
 #. Pending title indicating near completion.
 msgctxt "duckai_migration"
 msgid "Almost there!"
-msgstr ""
+msgstr "Hindik ma!"
 
 #. A title on a page that let's users know they're almost done with the process of installing DuckDuckGo in their browser
 msgctxt "install-duckduckgo"
@@ -1025,7 +1046,7 @@ msgstr "Her wiha bi taybetî lêgerînê bike li ser iPad, iPhone, an jî Androi
 
 #. Instant Answer Tab Name
 msgid "Alternatives"
-msgstr "Alternatîv"
+msgstr "Elternatîv"
 
 #. https://i.imgur.com/89c3nJI.png
 msgctxt "settingsvalue"
@@ -1034,17 +1055,17 @@ msgstr "Her dem li ser DuckDuckGo lêde"
 
 #. Refers to the DuckDuckGo search engine, on which your searches are always private.
 msgid "Always private"
-msgstr ""
+msgstr "Her dem taybet"
 
 #. Refers to the DuckDuckGo search engine, on which your searches are always protected.
 msgid "Always protected"
-msgstr ""
+msgstr "Her dem parastî ye"
 
 #. Text displayed next to the Active Privacy Protection icon in an empty chat, stating that conversations with Duck.ai are always protected.
 msgctxt ""
 "Text displayed next to the Active Privacy Protection icon in an empty chat"
 msgid "Always protected"
-msgstr ""
+msgstr "Her dem parastî ye"
 
 #. Title of the divisional championship series for the American League division of Major League Baseball
 msgctxt "Sports module"
@@ -1062,7 +1083,7 @@ msgid "American League Wild Card Series"
 msgstr ""
 
 msgid "American Samoa"
-msgstr ""
+msgstr "Samoa ya Emerîkî"
 
 #. The name of the Amharic language
 msgctxt "language_name"
@@ -1070,14 +1091,14 @@ msgid "Amharic"
 msgstr "Emharîkî"
 
 msgid "Andorra"
-msgstr ""
+msgstr "Endorra"
 
 #. Refers to the DuckDuckGo browser for Android.
 msgid "Android Browser"
-msgstr ""
+msgstr "Geroka Androidê""
 
 msgid "Angola"
-msgstr ""
+msgstr "Engola"
 
 #. Filters the type of images in search results.
 msgctxt "image-type"
@@ -1087,12 +1108,12 @@ msgstr "GIF"
 #. Tells the user the location being used to show search results. e.g. Anonymizing your location in London, UK.
 msgctxt "precise_user_location"
 msgid "Anonymizing your location in"
-msgstr ""
+msgstr "Cihê te tê veşartin li""
 
 #. Confirmation message after location service is enabled.
 msgctxt "precise_user_location"
 msgid "Anonymous Location Enabled"
-msgstr "Cihê Nenas Çalak e"
+msgstr "Cihê nenas Çalak e"
 
 #. Text with information about AI Chat and supported AI models, the placeholders list AI models. Example: 'Anonymous access to popular AI models, including GPT, Claude, and open-source Llama and Mistral.'
 msgctxt "AI Chat description"
@@ -1100,6 +1121,8 @@ msgid ""
 "Anonymous access to popular AI models, including %s, %s, and open-source %s "
 "and %s."
 msgstr ""
+"Bi awayekî nenas bigihêje modêlên AI yên herî navdar, tevlî %s, %s, û %s ya "
+"çavkaniya-vekirî û %s."
 
 #. Text with information about Duck.ai and supported AI models, the placeholders list AI models. Example: 'Anonymous access to popular AI models, including GPT, Claude, and open-source Llama and Mistral.'
 msgctxt "Duck.ai description"
@@ -1107,6 +1130,8 @@ msgid ""
 "Anonymous access to popular AI models, including %s, %s, and open-source %s "
 "and %s."
 msgstr ""
+"Bi awayekî nenas bigihêje modêlên AI yên herî navdar, tevlî %s, %s, û %s ya "
+"çavkaniya-vekirî û %s."
 
 #. Confirmation message after location service is enabled.
 msgctxt "precise_user_location"
@@ -1118,11 +1143,11 @@ msgid "Answer"
 msgstr "Bersiv"
 
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Entigua û Berbuda"
 
 #. Option for the filter-by-date search.
 msgid "Any Time"
-msgstr "Her Dem"
+msgstr "Her dem"
 
 #. Placeholder text for the textarea where users can provide additional instructions for the AI assistant. Example: 'Any additional instructions you want Duck.ai to follow. e.g. Always tell me facts about ducks'
 msgctxt "Placeholder for additional instructions textarea"
@@ -1130,6 +1155,8 @@ msgid ""
 "Any additional instructions you want Duck.ai to follow. e.g. Always tell me "
 "facts about ducks"
 msgstr ""
+"Her rênimayên din ên ku tu dixwazî Duck.ai bişopîne. mînak. Her dem ji min re "
+"rastiyên li ser ordekan bibêje"
 
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-duration"
@@ -1156,7 +1183,7 @@ msgid "App"
 msgstr "Sepan"
 
 msgid "App and Extension"
-msgstr "Sepan û Pêvek"
+msgstr "Sepan û pêvek"
 
 #. Header above a list of settings that effect the appearance of the search engine.
 msgid "Appearance"
@@ -1165,7 +1192,7 @@ msgstr "Xuyang"
 #. Text for the theme selector label that allows users to switch between Light and dark theme.
 msgctxt "Label for the theme selector feature"
 msgid "Appearance"
-msgstr ""
+msgstr "Xuyang"
 
 #. https://i.imgur.com/HWCiPDW.png
 msgctxt "settings"
@@ -1201,16 +1228,17 @@ msgctxt "Body text for clear all chats confirmation modal"
 msgid ""
 "Are you sure you want to clear all of your chats? This cannot be undone."
 msgstr ""
+"Tu piştrast î ku dixwazî ​​hemû axaftinên xwe pak bikî? Ev nayê vegerandin."
 
 #. Body text of the modal that asks the user if they want to clear the conversation.
 msgctxt "Modal body for clearing conversation"
 msgid "Are you sure you want to clear this conversation and start a new one?"
-msgstr ""
+msgstr "Tu piştrastî ku tu dixwazî vê axaftinê pak bikî û yekî nû dest pê bikî?"
 
 #. Text asking the user to confirm if they want to delete their current chat, explaining that this action cannot be undone.
 msgctxt "Body text for delete chat confirmation modal"
 msgid "Are you sure you want to delete this chat? This cannot be undone."
-msgstr ""
+msgstr "Tu piştrastî ku tu dixwazî vê axaftinê jê bibî? Ev nayê vegerandin."
 
 #. Text asking the user to confirm if they want to disable chat history, with a warning that it will also delete currently saved chats including pinned chats.
 msgctxt "Body text for disable chat history confirmation modal"
@@ -1218,6 +1246,8 @@ msgid ""
 "Are you sure you want to disable history? This will delete all chats, "
 "including pinned chats."
 msgstr ""
+"Tu piştrast î ku dixwazî ​​dîrokê neçalak bikî? Ev ê hemû axaftinan jê bibe, "
+"tevlî axaftinên bidarxistî jî."
 
 #. Text asking the user to confirm if they want to disable recent chats, with a warning that it will also delete currently saved chats.
 msgctxt "Body text for disable recent chats confirmation modal"
@@ -1225,17 +1255,18 @@ msgid ""
 "Are you sure you want to disable recent chats? This will also delete any "
 "recent chats that are currently saved."
 msgstr ""
-
+"Tu piştrast î ku dixwazî ​​axaftinên dawî neçalak bikî? Ev ê her axaftinên "
+"dawî yên ku niha hatin tomarkirin jî jê bibe."
 #. Question asking user if they want to share the URL of the page they were on when giving feedback
 msgctxt "feedback form"
 msgid "Are you willing to share the page URL?"
-msgstr ""
+msgstr "Tu dixwazî girêdana rûpelê parve bikî?""
 
 msgid "Argentina"
 msgstr "Erjentîn"
 
 msgid "Armenia"
-msgstr ""
+msgstr "Ermeniya"
 
 #. The name of the Armenian language
 msgctxt "language_name"
@@ -1243,7 +1274,7 @@ msgid "Armenian"
 msgstr "Ermenî"
 
 msgid "Aruba"
-msgstr ""
+msgstr "Eruba"
 
 #. Indicates when the data was last updated e.g. 'As of 12:37 PM EST'
 msgctxt "Stocks module"
@@ -1260,57 +1291,57 @@ msgstr ""
 
 #. A button to ask Duck.ai a question
 msgid "Ask"
-msgstr ""
+msgstr "Pirs bike"
 
 #. Placeholder text used in chat input for user’s messages. Example: 'Chat with GPT-3'
 msgctxt "Placeholder text user’s chat input"
 msgid "Ask %s"
-msgstr ""
+msgstr "%s pirs bike"
 
 #. Short version of the placeholder text used in chat input for user’s messages.
 msgctxt "Placeholder text user’s chat input"
 msgid "Ask AI"
-msgstr ""
+msgstr "AI pirs bike"
 
 #. Label for a button that opens a DuckDuckGo AI chat session
 msgid "Ask AI Chat"
-msgstr ""
+msgstr "AI chat pirs bike"
 
 #. A placeholder for the AI Chat prompt input
 msgid "Ask AI Chat anything"
-msgstr ""
+msgstr "AI Chat her tiştî pirs bike"
 
 #. Will be used as tooltip for a navigation tab that takes the user to an AI Chat bot feature similar to ChatGPT.
 msgctxt "Tooltip text in duckbar tab"
 msgid "Ask AI privately"
-msgstr ""
+msgstr "AI chat bi taybetî pirs bike"
 
 #. Label for autocomplete option to use Duck.ai
 msgctxt "Search form"
 msgid "Ask Duck.ai"
-msgstr ""
+msgstr "Duck.ai pirs bike"
 
 #. A placeholder for the Duck.ai prompt input
 msgid "Ask Duck.ai anything"
-msgstr ""
+msgstr "Duck.ai her tiştî pirs bike"
 
 #. A placeholder for the AI Chat prompt input when used in the context of asking follow-up questions based on a DuckAssist reponse
 msgid "Ask a follow-up question"
-msgstr ""
+msgstr "Pirseke dûhev pirs bike"
 
 #. Label indicating the option to ask clarifying questions. Once this is selected, the AI assistant will be prompted to ask more questions.
 msgctxt "Label for the switch to ask clarifying questions"
 msgid "Ask clarifying questions"
-msgstr ""
+msgstr "Pirsên zelalkirinê pirs bike""
 
 #. A placeholder for the AI Chat prompt input when used in the context of asking follow-up questions based on a DuckAssist reponse
 msgid "Ask privately"
-msgstr ""
+msgstr "Bi taybetî pirs bike"
 
 #. Placeholder text used in chat input for user’s messages.
 msgctxt "Placeholder text user’s chat input"
 msgid "Ask privately"
-msgstr ""
+msgstr "Bi taybetî pirs bike"
 
 #. The name of the Assamese language
 msgctxt "language_name"
@@ -1319,16 +1350,16 @@ msgstr "Essamesî"
 
 #. Tab label for the duckassist instant answer (based on generative AI)
 msgid "Assist"
-msgstr ""
+msgstr "Alîkar"
 
 msgctxt "settings"
 msgid "Assist"
-msgstr ""
+msgstr "Alîkar"
 
 #. An accessibility label for the assist settings button (accessed via the title of the Assist module in the header).
 msgctxt "duckassist"
 msgid "Assist Settings"
-msgstr ""
+msgstr "Sazkariyên alîkar"
 
 msgctxt "settings"
 msgid ""
@@ -1340,6 +1371,14 @@ msgid ""
 "(shows more frequently on a wider range of searches). For now, AI-assisted "
 "answers are only available in the U.S. (English) region."
 msgstr ""
+"Alîkar dikare bi awayekî anonîm bersivên bi alîkariya AI ji bo hinek lêgerînan "
+"li ser bingeha kurtkirina naveroka malperê ya têkildar çê bike. Tu dikarî "
+"hilbijêrî ka tu çiqas caran dixwazî ​​Alîkar xuya bibe: Tu carî (bi tevahî "
+"NB ya alîkar ji encamên lêgerînê radike), Li ser daxwazê ​​(tenê bersivên bi "
+"alîkariya AI nîşan dide ku tu bişkoka Alîkariyê bitikînî), Carina (tenê "
+"bersivên bi alîkariya AI nîşan dide dema ku pir têkildar bin), yan jî pir "
+"caran (di rêzek berfirehtir a lêgerînan de pir caran tê nîşandan). Ji bo niha "
+"bersivên bi alîkariya AI tenê li herêma dewletên yekbûyî yên Emerîkî (Îngilîzî) hene."
 
 #. First paragraph of a section inviting users to learn more about the Assist instant answer (based on generative AI)
 msgid ""
@@ -1350,11 +1389,17 @@ msgid ""
 "to remember that responses are auto-generated from cited sources and based "
 "on %scrawling the web%s."
 msgstr ""
+"Alîkar taybetmendiyeke vebijêrkî ye di encamên lêgerînê de ku dikare bi awayekî"
+"anonîm bersivên bi alîkariya AI ji bo pirsên lêgerînê çê bike." Ji bo vê yekê, "
+"ew tevnê li naveroka têkildar digere û paşê teknolojiya zimanê xwezayî ya bi "
+"hêzdariya AI bi kar tîne da ku li gorî zanyariya têkildar a hatî dîtin bersiveke "
+"kurt çê bike. Girîng e ku mirov ji bîr neke ku bersiv ji çavkaniyên hatin "
+"destnîşankirin xweber tên çêkirin û li ser bingeha %scrawling the web%s ne."
 
 #. Title for the dropdown menu where users select the assistant's role. Example: 'Assistant role: Travel guide'
 msgctxt "Dropdown title for selecting assistant role"
 msgid "Assistant role"
-msgstr ""
+msgstr "Rolê alîkar"
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
@@ -1363,37 +1408,37 @@ msgstr "Li ser DuckDuckGo, em dipejirînin."
 #. Disclaimer for when we do not have up to date Market Capitalization value
 msgctxt "Stocks module"
 msgid "At Prev Close"
-msgstr ""
+msgstr "Di girtina dawî de"
 
 #. In the context of the National Hockey League (NHL), label for teams belonging to the Atlantic division
 msgctxt "Sports module"
 msgid "Atlantic"
-msgstr ""
+msgstr "Etlantîk"
 
 #. Accessible text of a button that opens a dropdown menu with options to attach images or page context to the current AI chat message.
 msgctxt "Button to open menu for attaching images or page context to AI chat"
 msgid "Attach"
-msgstr ""
+msgstr "Pêve bike"
 
 #. Accessible text of a button that adds an image to the current AI chat message being composed.
 msgctxt "Add an image to be uploaded to the AI chat conversation"
 msgid "Attach Image"
-msgstr ""
+msgstr "Wêneyê pêve bike"
 
 #. Accessible text of a button that adds an image to the current AI chat message being composed.
 msgctxt "Add an image to be uploaded to the AI chat conversation"
 msgid "Attach image"
-msgstr ""
+msgstr "Wêneyê pêve bike"
 
 #. Accessible text of a button that toggles attaching page context to the current AI chat message being composed.
 msgctxt "Add page context from the current tab to the AI chat message"
 msgid "Attach page context"
-msgstr ""
+msgstr ""Naveroka rûpelê pêve bike""
 
 #. Alternative text that is used both for accessibility and export purposes when an image has been uploaded alongside an AI chat conversation. Placeholder is for the image number. E.g. 'Attached image 1'
 msgctxt "Alternative text for imges added to chat conversations for users"
 msgid "Attached image %s"
-msgstr ""
+msgstr "Wêneya pêvekirî %s"
 
 msgid "Audio"
 msgstr "Deng"
@@ -1407,38 +1452,39 @@ msgstr "Ewistiriya"
 #. Label that's displayed next to an author below a web search result.
 msgctxt "Rich Facts label"
 msgid "Author"
-msgstr ""
+msgstr "Nivîskar"
 
 #. http://i.imgur.com/DIzKQRl.png
 msgctxt "settings"
 msgid "Auto-Suggest"
-msgstr "Pêşniyarkinê-bixweber"
+msgstr "Pêşniyarkirinê-xweber"
 
 msgctxt "settings"
 msgid "Auto-answer"
-msgstr "Bersivên bixweber"
+msgstr "Bersivên xweber"
 
 #. Disclaimer for the duckassist instant answer (based on generative AI)
 msgid "Auto-generated based on listed sources. May contain inaccuracies."
-msgstr ""
+msgstr "Li gorî çavkaniyên navnîşkirî xweber hatiye çêkirin. Dibe ku şaşetî tê de hebin."
 
 #. Disclaimer for the duckassist instant answer (based on generative AI)
 msgid ""
 "Auto-generated based on listed sources. Responses may contain inaccuracies."
 msgstr ""
+"Li gorî çavkaniyên navnîşkirî xweber hatiye çêkirin. Dibe ku di bersivan de şaşetî tê de hebin."
 
 #. Disclaimer for the duckassist instant answer (based on generative AI) on mobile
 msgid "Auto-generated from sources. May be inaccurate."
-msgstr ""
+msgstr "ji çavkaniyan xweber hatiye çêkirin. Dibe ku şaş be.""
 
 msgctxt "settings"
 msgid "Autocomplete Suggestions"
-msgstr "Pêşniyarkirnên Tijîkirina Bixweber"
+msgstr "Pêşniyarkirnên tijîkirina xweber"
 
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
-msgstr "Bersivên bilez ên têklîdar bixweber veke"
+msgstr "Bersivên bilez ên têklîdar xweber veke"
 
 msgctxt "settings"
 msgid ""
@@ -1446,6 +1492,9 @@ msgid ""
 "look up and summarize information in response to some searches. For now, "
 "Assist is only available in English regions."
 msgstr ""
+"Ji bo lêgerînên têkildar xweber alîkar nîşan dide. Alîkar dikare bi awayekî "
+"anonîm li hinek lêgerînan bigere û zanyariyan kurt bike. Ji bo niha, "
+"Alîkar tenê li herêmên Îngilîzî peyda dibe."
 
 msgctxt "settings"
 msgid ""
@@ -1453,9 +1502,9 @@ msgid ""
 "anonymously look up and summarize information in response to some searches. "
 "For now, DuckAssist is only available in English regions."
 msgstr ""
-"Bixweber DuckAssist nîşan dide ji bo lêgerînên têklîdar. DuckAssist dikare "
-"bi awayekî nenas li bersiva hinek lêgerînan binêre û kurte bikê ji bo niha, "
-"DuckAssist tenê bi Di herêmên Îngilîzî de peyda dibe."
+"Ji bo lêgerînên têkildar xweber alîkar nîşan dide. Alîkar dikare bi awayekî "
+"anonîm li hinek lêgerînan bigere û zanyariyan kurt bike. Ji bo niha, "
+"Alîkar tenê li herêmên Îngilîzî peyda dibe."
 
 #. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
@@ -1465,15 +1514,15 @@ msgstr "Nirxandina navînî: %s ji 5"
 #. The average volume traded for a particular stock
 msgctxt "Stocks module"
 msgid "Avg Vol"
-msgstr "Rêjeya Navînî"
+msgstr "Rêjeya navînî"
 
 #. Indicates the Win-Loss record of a team when playing away
 msgctxt "Sports module"
 msgid "Away Record"
-msgstr "Encama Derva"
+msgstr "Encama derva"
 
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Ezerbeycan"
 
 #. The name of the Azerbaijani language
 msgctxt "language_name"
@@ -1491,12 +1540,12 @@ msgstr ""
 
 #. A call to action to go back to a previous step typically used in forms
 msgid "Back"
-msgstr ""
+msgstr "Vegere"
 
 #. Button label to return to Duck.ai.
 msgctxt "duckai_migration"
 msgid "Back to Duck.ai"
-msgstr ""
+msgstr "Vegere bo Duck.ai"
 
 #. Button that takes the user to the DuckDuckGo search page.
 msgctxt "homepage onboarding"
@@ -1506,17 +1555,17 @@ msgstr "Vegere bo lêgerînê"
 #. http://i.imgur.com/6Eip5h1.png
 msgctxt "settings"
 msgid "Background Color"
-msgstr "Rengê Paşrûyê"
+msgstr "Rengê paşrûyê"
 
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "Background:"
 msgstr "Paşrû:"
 
 msgid "Bahamas"
-msgstr ""
+msgstr "Behamas"
 
 msgid "Bahrain"
-msgstr ""
+msgstr "Behreyin"
 
 #. The name of the Bangla language
 msgctxt "language_name"
@@ -1524,14 +1573,14 @@ msgid "Bangla"
 msgstr "Bengalî"
 
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bengeladiş"
 
 #. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang
 msgid "Bangs"
 msgstr "Bang"
 
 msgid "Barbados"
-msgstr ""
+msgstr "Berdaos"
 
 #. Instant Answer tab name
 msgid "Barcode"
@@ -1548,22 +1597,22 @@ msgstr "Hêsan"
 #. Text displayed on the models list as a title for the basic AI (Artificial Intelligence) models section.
 msgctxt "Label for the basic AI models"
 msgid "Basic Models"
-msgstr ""
+msgstr "Modêlên hêsan"
 
 #. The name of the Basque language
 msgctxt "language_name"
 msgid "Basque"
-msgstr ""
+msgstr "Basqu"
 
 #. Label that's displayed next to a past start date below a web search result.
 msgctxt "Rich Facts label"
 msgid "Began"
-msgstr ""
+msgstr "Destpêkirin"
 
 #. Label that's displayed next to a start date below a web search result.
 msgctxt "Rich Facts label"
 msgid "Begins"
-msgstr ""
+msgstr "Destpêkirin"
 
 msgid "Belgium"
 msgstr "Belçîka"
@@ -1572,23 +1621,23 @@ msgid "Belgium (fr)"
 msgstr "Belçîka (fr)"
 
 msgid "Belgium (nl)"
-msgstr "Belçîka (nl)"
+msgstr "Belçîka (hl)"
 
 msgid "Belize "
-msgstr ""
+msgstr "Belîz"
 
 #. This is an option for a user setting. It refers to showing the URL for a result BELOW the SNIPPET (description) of the result -- Example image: https://i.imgur.com/lnP77q4.png
 msgctxt "settingsvalue"
 msgid "Below Snippet"
-msgstr "Jêrî Danasînê"
+msgstr "Jêrî danasînê"
 
 #. This is an option for a user setting. It refers to showing the URL for a result BELOW the TITLE of the result -- Example image: https://i.imgur.com/3cb6xx0.png
 msgctxt "settingsvalue"
 msgid "Below Title"
-msgstr "Jêrî Sernavê"
+msgstr "Jêrî sernavê"
 
 msgid "Benin"
-msgstr ""
+msgstr "Benîn"
 
 msgid "Bermuda"
 msgstr ""
@@ -1634,16 +1683,16 @@ msgstr "Şopgeran Asteng bike"
 #. Item in a list of features of a desktop web browser
 msgctxt "Browser Promo Popover"
 msgid "Block annoying cookie pop-ups"
-msgstr ""
+msgstr "Çarçoveyên hilpekok ên acizkar asteng bike"
 
 #. DuckDuckGo Email Protection offers the ability to generate random email addresses to protect your personal email address
 msgctxt "SERP footer content"
 msgid "Block email trackers and hide your address."
-msgstr ""
+msgstr "Şopgerên enameyê asteng bike û navnîşanê xwe veşêre."
 
 #. A disclaimer about AI-generated images in search results
 msgid "Block list is not exhaustive and may contain inaccuracies."
-msgstr ""
+msgstr "Lîsteya astengkirinan ne giştgir e û dibe ku şaşetî tê de hebin."
 
 msgctxt "homepage ATB modal"
 msgid "Block most trackers as you browse."
@@ -1652,7 +1701,7 @@ msgstr "Dema tu digerî şopgeran bi piranî asteng bike."
 #. Menu option to block a site from the displayed results
 msgctxt "Organic result context menu"
 msgid "Block this site from all results"
-msgstr ""
+msgstr "Vê malperê ji hemû encaman asteng bike"
 
 msgctxt "homepage ATB modal"
 msgid "Block trackers and take control of your personal data"
@@ -1669,22 +1718,22 @@ msgstr "Şopgerên neparastî asteng bike"
 
 msgctxt "settings"
 msgid "Blocked Sites"
-msgstr ""
+msgstr "Malperên astengkirî"
 
 #. Used as a toggle label in a page customization menu
 msgctxt "customizer_menu"
 msgid "Blocked Tracking Attempts"
-msgstr ""
+msgstr "Hewldanên şopandinê yên astengkirî"
 
 #. Header above a list of trackers (or tracking companies) that have been blocked in the past 24 hours.
 msgctxt "tracker_stats"
 msgid "Blocked by DuckDuckGo in the last 24 hours"
-msgstr "Di 24 demjimêrên dawî de hate astengkirin ji aliyê DuckDuckGo"
+msgstr "Di 24 demjimêrên dawî de hat astengkirin ji aliyê DuckDuckGo"
 
 #. Header above a list of trackers (or tracking companies) that have been blocked in the past hour.
 msgctxt "tracker_stats"
 msgid "Blocked by DuckDuckGo in the last hour"
-msgstr "Di demjimêra dawî de hate astengkirin ji aliyê DuckDuckGo"
+msgstr "Di demjimêra dawî de hat astengkirin ji aliyê DuckDuckGo"
 
 #. Given as an option to select when providing feedback
 msgid "Blocked tracking attempts information"
@@ -1701,22 +1750,22 @@ msgstr ""
 #. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
 msgctxt "Weather IA"
 msgid "Blowing Dust"
-msgstr "Barina Tozê"
+msgstr "Barina tozê"
 
 #. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
 msgctxt "Weather IA"
 msgid "Blowing Snow"
-msgstr "Barina Berfê"
+msgstr "Barina berfê"
 
 #. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
 msgctxt "Weather IA"
 msgid "Blowing dust"
-msgstr "Barina Tozê"
+msgstr "Barina tozê"
 
 #. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
 msgctxt "Weather IA"
 msgid "Blowing snow"
-msgstr "Barina Berfê"
+msgstr "Barina berfê"
 
 #. The color blue
 msgid "Blue"
@@ -1728,22 +1777,22 @@ msgid "Blue"
 msgstr "Şîn"
 
 msgid "Bolivia"
-msgstr ""
+msgstr "Bolîviya"
 
 #. Label for the URL that saves user's settings.
 #. Click "Show Bookmarklet and Settings Data" - http://i.imgur.com/WyGptiV.png
 #. In the box that opens - http://i.imgur.com/tZAkHF6.png
 msgctxt "settings"
 msgid "Bookmarklet URL:"
-msgstr "Girêdanê Şûnpel bike:"
+msgstr "Girêdanê şûnpel bike:"
 
 #. Label that's displayed next to a date of birth below a web search result.
 msgctxt "Rich Facts label"
 msgid "Born"
-msgstr ""
+msgstr "Jidayîkbûn"
 
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Bosniya û Hersek"
 
 #. The name of the Bosnian language
 msgctxt "language_name"
@@ -1774,35 +1823,35 @@ msgstr "Brazîl"
 #. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
 msgctxt "Weather IA"
 msgid "Breezy"
-msgstr "Baya Honik"
+msgstr "Baya honik"
 
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "Giravên British Virgin"
 
 #. A feedback suggestion
 msgctxt "Feedback prompt"
 msgid "Broken formatting"
-msgstr ""
+msgstr "Formatkirina şikestî"
 
 #. A feedback suggestion
 msgctxt "Feedback prompt"
 msgid "Broken link"
-msgstr ""
+msgstr "Girêdana şikestî"
 
 #. A feedback suggestion
 msgctxt "Feedback prompt"
 msgid "Broken link to Yelp"
-msgstr ""
+msgstr "Girêdana şikestî ya bo Yelpê"
 
 #. Header on a column that displays the bronze medal count for the country in the Olympics
 msgid "Bronze Medals"
-msgstr ""
+msgstr "Xelatên bronzî"
 
 msgctxt ""
 "Header on a column that displays the bronze medal count for the country in "
 "the Olympics"
 msgid "Bronze Medals"
-msgstr ""
+msgstr "Xelatên bronzî"
 
 #. Filters the color of images in search results.
 msgctxt "color"
@@ -1812,7 +1861,7 @@ msgstr "Qehweyî"
 #. Button label to browse files for upload.
 msgctxt "duckai_migration"
 msgid "Browse Files"
-msgstr ""
+msgstr "Pelan bigere"
 
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
@@ -1841,29 +1890,29 @@ msgstr ""
 #. Header for a call to action to browse with the DuckDuckGo browser
 msgctxt "Browser Promo Popover"
 msgid "Browse with DuckDuckGo!"
-msgstr ""
+msgstr "Bi DuckDuckGo re bigere!"
 
 #. Sidebar heading displayed above links to DuckDuckGo apps (our 'browser') on platforms such as iOS, Android, Windows, MacOS, and more.
 msgid "Browser Downloads"
-msgstr ""
+msgstr "Daxistinên gerokê"
 
 #. Refers to DuckDuckGo's web extension available on browsers like Chrome, Firefox, etc.
 msgid "Browser Extensions"
-msgstr ""
+msgstr "Pêvekên gerokê"
 
 #. Message indicating that the user's current location isn't available.
 msgctxt "precise_user_location"
 msgid "Browser Location Unavailable"
-msgstr "Lêgerîna Cihê ne Berdest e"
+msgstr "Cih ne berdest e"
 
 #. Label for a menu that lets users select the language for their browser.
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
-msgstr "Zimanê Gerokê Hilbijartî"
+msgstr "Zimanê gerokê hilbijartî"
 
 msgctxt "settings"
 msgid "Browser Promo Dismissed"
-msgstr "Reklama Gerokê hate paşguhkirin"
+msgstr "Reklama gerokê hat paşguhkirin"
 
 #. Label for a menu that lets users select the language for their browser.
 msgctxt "settingsvalue"
@@ -1871,12 +1920,12 @@ msgid "Browser preferred language"
 msgstr "Zimanê gerokê hilbijartî"
 
 msgid "Brunei "
-msgstr ""
+msgstr "Brûnî"
 
 #. Text that indicates which source an AI Model was built with, such as 'Built with Meta Llama 3'. Note that 'built' is used in the context of software, not of e.g. construction.
 msgctxt "Label copy indicating the source of an AI Model"
 msgid "Built with %s"
-msgstr ""
+msgstr "Hatiye avakirin bi %s re"
 
 msgid "Bulgaria"
 msgstr "Bulgariya"
@@ -1887,10 +1936,10 @@ msgid "Bulgarian"
 msgstr "Bulgarî"
 
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkîna Faso"
 
 msgid "Burundi"
-msgstr ""
+msgstr "Bûrûndî"
 
 #. Text stating agreement to Duck.ai Privacy Policy and Terms of Service. Variables used to link to the Privacy Policy and Terms of Service content. Example: 'By clicking “Agree and Continue,” you accept Duck.ai’s Privacy Policy and Terms of Service.'
 msgctxt ""
@@ -15209,4 +15258,4 @@ msgstr "sl"
 
 #~ msgctxt "local_query_rewrite_experiment"
 #~ msgid "private"
-#~ msgstr "Taybet e"
+#~ msgstr "Taybet"
